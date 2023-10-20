@@ -17,4 +17,34 @@ const Orders = [
         paymentStatus: 'Paid',
         status: 'Active'
     },
+    {
+        productName: 'jQuery Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
+        status: 'Active'
+    },
+    {
+        productName: 'Advanced JavaScript Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
+        status: 'Active'
+    },
+    {
+        productName: 'Visual Studio Code Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
+        status: 'Active'
+    },
+    {
+        productName: 'Atom Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
+        status: 'Active'
+    },
+    {
+        productName: 'SVG Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Due',
+        status: 'Pending'
+    },
 ]
